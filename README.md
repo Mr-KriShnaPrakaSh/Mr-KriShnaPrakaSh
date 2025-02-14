@@ -26,10 +26,4 @@
 
 ---
 
-### 🎯 **Fun Fact**  
-🍽️ I love to cook and try new recipes!  
-🏏 Big fan of cricket – let's have a match!  
-
----
-
 💡 **"Building scalable cloud solutions, one deployment at a time!"** 🚀  
