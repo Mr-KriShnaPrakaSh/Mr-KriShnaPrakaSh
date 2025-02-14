@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Krish!  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=blue&width=500&lines=Cloud+Engineer+☁️;Ex-DevOps+Engineer+🚀;AWS+|+Azure+|+Terraform+💻)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=blue&width=500&lines=Cloud+Engineer+☁️)](https://git.io/typing-svg)  
 
 ---
 
@@ -23,11 +23,6 @@
 
 ### 📫 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/im-krish)  
-
----
-
-### 🐍 **Contribution Graph**  
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
 
 ---
 
