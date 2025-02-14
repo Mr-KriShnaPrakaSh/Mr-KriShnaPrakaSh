@@ -1,18 +1,18 @@
 # Hi there 👋, I'm Krish!  
 
-🌩️ **Cloud Engineer** | 🚀 Ex-DevOps Engineer  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=blue&width=500&lines=Cloud+Engineer+☁️;Ex-DevOps+Engineer+🚀;AWS+|+Azure+|+Terraform+💻)](https://git.io/typing-svg)  
 
 ---
 
 ### 👨‍💻 **About Me**  
-- ☁️ Currently working as a **Cloud Engineer** (5 months experience)  
+- ☁️ **Cloud Engineer** (5 months experience)  
 - 🔧 Previously a **DevOps Engineer** (2.5 years experience)  
-- 🌱 Learning **Kubernetes** to enhance my cloud & containerization skills  
-- 🍳 Love to **cook** & 🏏 play **cricket** in my free time  
+- 🌱 Currently learning **Kubernetes**  
+- 🍳 Love **cooking** & 🏏 playing **cricket**  
 
 ---
 
-### 🛠️ **Tech Stack** (Currently Using)  
+### 🛠️ **Tech Stack (Currently Using)**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
@@ -26,4 +26,15 @@
 
 ---
 
-💡 **"Building scalable cloud solutions, one deployment at a time!"** 🚀
+### 🐍 **Contribution Graph**  
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+### 🎯 **Fun Fact**  
+🍽️ I love to cook and try new recipes!  
+🏏 Big fan of cricket – let's have a match!  
+
+---
+
+💡 **"Building scalable cloud solutions, one deployment at a time!"** 🚀  
